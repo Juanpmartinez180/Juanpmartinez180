@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Pablo! I'm finishing my degree in Electronics and working on my career as a Data scientist.
 - 👀 I’m interested in data science, machine learning and electronics.
 - 🌱 I’m currently learning data bases with SQL, Docker, MLops with cloud services (Azure ML) and new Data visualization tools like PowerBI to a better data representation and understanding.
-- 📫 How to reach me!
-    -Linkedin = linkedin.com/in/juanpmartinez35
-    -Kaggle = kaggle.com/juanpmartinez
+- 📫 How to reach me=
+    -Linkedin: linkedin.com/in/juanpmartinez35
+    -Kaggle: kaggle.com/juanpmartinez
